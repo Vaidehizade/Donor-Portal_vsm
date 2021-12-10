@@ -1,0 +1,30 @@
+.imaged2 {
+  z-index: -1 !important;
+  height: 100%;
+  width: 100%;
+  margin-left: -9.5%;
+  margin-right: 0%;
+  padding: 0px;
+  overflow-x: hidden;
+  position: fixed;
+}
+
+.col-sm {
+  margin-left: 350px;
+  margin-top: 95px;
+}
+
+.card {
+  width: 25rem;
+  height: 28rem;
+  z-index: 5 !important;
+}
+
+.card-header {
+  background-color: green;
+  color: white;
+}
+
+.signup_ref .link_color {
+  color: green;
+}

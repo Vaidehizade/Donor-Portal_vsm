@@ -1,0 +1,55 @@
+.imaged {
+  z-index: -1 !important;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+.col-sm {
+  margin-left: 350px;
+  margin-top: 115px;
+}
+
+.card {
+  width: 25rem;
+  height: 28rem;
+  z-index: 5 !important;
+}
+.card-header {
+  text-align: center;
+  background-color: green;
+  color: white;
+}
+
+.btn_submit {
+  width: 5rem;
+  height: 3rem;
+  text-align: center;
+  justify-content: center;
+  background-color: green;
+  color: white;
+  padding: 14px 18px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+.btn_submit:hover {
+  opacity: 0.8;
+}
+
+.signup_ref {
+  text-align: center;
+}
+
+.signup_ref .link_color1 {
+  color: green;
+}
+
+.link_colors {
+  color: green;
+}
+
+input:focus {
+  color: green;
+}

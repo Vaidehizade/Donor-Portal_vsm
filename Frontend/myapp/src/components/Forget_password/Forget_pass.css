@@ -1,0 +1,37 @@
+.btn_login {
+  width: auto;
+  background-color: rgb(13, 201, 13);
+  padding: auto;
+  float: left;
+}
+
+.btn_login1 {
+  float: right;
+  background-color: rgb(13, 201, 13);
+}
+
+.imaged1 {
+  z-index: -1 !important;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin-left: -9.5%;
+  margin-right: 0%;
+  padding: 0px;
+  overflow-x: hidden;
+  position: fixed;
+}
+
+.card {
+  width: 25rem;
+  height: 28rem;
+  z-index: 5 !important;
+}
+
+.btn_login .lnk_color1 {
+  color: aliceblue;
+}
+
+.btn_login1 .lnk_color2 {
+  color: aliceblue;
+}
