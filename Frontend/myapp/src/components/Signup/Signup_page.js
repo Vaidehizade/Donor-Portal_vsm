@@ -7,22 +7,22 @@ function Signup_page()
         <div className="container">
            <img className="imaged2" src="/Images/background_image_3.jpg"/>
             <div className="row">
-                <div className="col-sm">
-                <div className="card">
-            <div className="card-header"><h4>Signup</h4></div>
-            <div className="card-body">
+                <div className="">
+                <div className="card SignupCard">
+            <div className="card-header-signup"><h4>Signup</h4></div>
+            <div className="card-body Signup">
               <form>
-                <div className="form-group">
+                <div className="form-group signup_f">
                   <label for="name"><b>Name</b></label>
                   <input type="name" className="form-control" id="examplename" aria-describedby="nameHelp" placeholder="Enter name" />
                 </div>
 
-                <div className="form-group">
+                <div className="form-group signup">
                   <label for="exampleInputEmail1"><b>Email address</b></label>
                   <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" />
                 </div>
 
-                <div className="form-group">
+                <div className="form-group signup">
                   <label for="exampleInputPassword1"><b>Password</b></label>
                   <input type="password" className="form-control" id="exampleInputPassword1" placeholder="Password" />
                 </div>

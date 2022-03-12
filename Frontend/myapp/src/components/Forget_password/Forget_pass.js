@@ -6,7 +6,7 @@ function Forget_pass(){
     <div className="container">
     <img className="imaged1" src="/Images/background_image_3.jpg"/>
       <div className="row">
-        <div className="col-sm">
+        <div className="">
           <div className="card">
             <div class="card-body">
               <form>

@@ -9,22 +9,25 @@
   position: fixed;
 }
 
-.col-sm {
+/* .col-sm {
   margin-left: 350px;
   margin-top: 95px;
-}
+} */
 
-.card {
+.SignupCard {
   width: 25rem;
   height: 28rem;
   z-index: 5 !important;
 }
 
-.card-header {
+.card-header-signup {
   background-color: green;
   color: white;
+  text-align: center;
+  padding: 0.6rem;
 }
 
 .signup_ref .link_color {
   color: green;
 }
+

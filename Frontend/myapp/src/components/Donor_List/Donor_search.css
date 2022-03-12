@@ -1,0 +1,18 @@
+
+
+.card-header{
+    height: 2vh;
+}
+.DonorCard{
+    width: 170vh;
+    height: 40vh;
+    margin-left: 5vh;
+}
+
+label {
+    display:block;
+}
+
+.inputPair{
+    float: left;
+}

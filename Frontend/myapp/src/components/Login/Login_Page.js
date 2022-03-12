@@ -4,17 +4,17 @@ import './Login_page.css';
 function Login_Page() {
   return (
     <div className="bg1">
-      <img className="imaged" src="/Images/background_image_3.jpg"/>
+    <img className="imaged" src="/Images/background_image_3.jpg"/>
     <div className="container">
-      <div className="row">
-        <div className="col-sm">
-          <div className="card">
-            <div class="card-header"><h3>Welcome User!</h3></div>
+      <div className="">
+        
+          <div className="card SignupCard">
+            <div class="card-header-signup"><h3>Welcome User!</h3></div>
             <div class="card-body">
               <form>
                 <div className="form-group">
                   <label for="exampleInputEmail1"><b>Email address</b></label>
-                  <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" />
+                  <input type="email" className="form-control " id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" />
                 </div>
                 <div className="form-group">
                   <label for="exampleInputPassword1"><b>Password</b></label>
@@ -34,7 +34,7 @@ function Login_Page() {
               </form>
             </div>
           </div>
-        </div>
+        
       </div>
     </div>
     </div>

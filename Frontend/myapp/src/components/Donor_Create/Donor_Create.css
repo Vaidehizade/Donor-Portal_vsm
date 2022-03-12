@@ -1,0 +1,11 @@
+.card{
+    margin-top: 50px;
+    margin-left:220px;
+    width: 100vh;
+    height: 90vh;
+}
+.form{
+    display: flex;
+    flex-flow: row wrap;
+   align-items: stretch;
+}
